@@ -1,4 +1,4 @@
-# Prueba Tecnica - JS
+# Prueba Tecnica - Software Engineer I
 
 ## Indice
 -   [Ejercicio](#ejercicio)
