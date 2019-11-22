@@ -7,7 +7,7 @@
 -   [Scripts](#scripts)
 
 ## Ejercicio
-Utilizando el archivo `index.js`, ubicado en la raiz del proyecto, crea una función pura llamada `isPalindrome`, la cual recibe un parámetro de tipo *string* llamado `str`. Esa función debe retornar un valor de tipo *booleano* el cual me diga si el *string* que le he pasado como parámetro es o no un palíndromo (https://es.wikipedia.org/wiki/Pal%C3%ADndromo).
+Utilizando el archivo `index.js`, ubicado en la raiz del proyecto, crea una función pura llamada `isPalindrome`, la cual recibe un parámetro de tipo *string* llamado `str`. Esa función debe retornar un valor de tipo *booleano* el cual me diga si el *string* que le he pasado como parámetro es o no un [palíndromo](https://es.wikipedia.org/wiki/Pal%C3%ADndromo).
 
 Para desarrollar este ejercicio, te vamos a pedir que hagas un fork de este proyecto (no hagas ningún commit sobre este repositorio, porque será eliminado), y lo subas a un repositorio tuyo (github, bitbucket, gitlab, etc) y nos envíes la url de ese repositorio por email.
 
