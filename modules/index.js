@@ -1,6 +1,7 @@
 function isPalindrome(str) {
-    let aux = str.split('').reverse('').join('')
-    if(aux === str){
+    let stringWihtoutSpaces = str.replace(/\s/g,'').toLowerCase()
+    let aux = stringWihtoutSpaces.split('').reverse('').join('')
+    if(aux === stringWihtoutSpaces){
         return true
     } else {
         return false 

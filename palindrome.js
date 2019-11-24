@@ -1,3 +1,3 @@
 const palindrome = require('./modules/index.js')
 
-console.log(palindrome('neuquen'))
+console.log(palindrome('aNa lava lana'))
