@@ -32,3 +32,8 @@ test("case 7", () => {
 test("case 8", () => {
     expect(isPalindrome("Arriba birra")).toBe(true);
 });
+test('no es un string', () => {
+    expect(() => {
+      isPalindrome(222);
+    }).toThrow();
+  });
